@@ -24,12 +24,25 @@ form{
     padding-right: 250px;
     
 }
-input{
+button{
+    
+}
+
+button, input[type="text"]{
+    /* display: flex; */
+    background: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    width: 300%;
+}
+/* input{
     display: flex;
    
     padding: 10px;
+    margin: 10px;
     
-}
+} */
 
 h1{text-align: center}
 
